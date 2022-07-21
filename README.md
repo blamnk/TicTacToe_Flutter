@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Tic-Tac-Toe in flutter (tutorial code - isn't all mine)
+Tic-Tac-Toe in flutter
 
 ## Getting Started
 
