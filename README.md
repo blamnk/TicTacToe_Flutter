@@ -1,6 +1,6 @@
-# tictactoe_flutter_original
+# Tic-Tac-Toe
 
-A new Flutter project.
+Tic-Tac-Toe in flutter (tutorial code - isn't all mine)
 
 ## Getting Started
 
